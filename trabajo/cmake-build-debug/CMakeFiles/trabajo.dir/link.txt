@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/trabajo.dir/main.cpp.o  -o trabajo 
